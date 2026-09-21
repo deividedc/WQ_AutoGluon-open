@@ -115,7 +115,7 @@ The numerical results reported in the paper should be consulted in the original 
 
 ---
 
-### 4. `analise_de_resultados.py`
+### 4. `analysis_of_results.py`
 
 This script performs the subsequent analysis of the experimental results.
 
