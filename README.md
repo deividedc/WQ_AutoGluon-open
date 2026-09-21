@@ -22,7 +22,7 @@ AutoML.py
       ↓
 metrics_summary.py
       ↓
-analise_de_resultados.py
+analysis_of_results.py
 ```
 
 Each script has a specific role in the experimental workflow.
@@ -304,7 +304,7 @@ This processes the generated JSON files and summarizes the performance metrics a
 Run:
 
 ```bash
-python analise_de_resultados.py
+python analysis_of_results.py
 ```
 
 This performs the subsequent analysis of the generated experimental results, including model performance, feature importance, predictions, and residual analysis.
