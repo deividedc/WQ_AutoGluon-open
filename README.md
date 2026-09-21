@@ -352,8 +352,6 @@ The detailed experimental results, statistical summaries, model comparisons, and
 > *Automated machine learning achieves accurate water quality prediction with reduced parameter requirements.*
 > Scientific Reports, 16, 4431 (2026).
 
-The repository intentionally does not reproduce the results tables from the publication. Users interested in the quantitative results should consult the original article.
-
 ---
 
 # Citation
@@ -391,6 +389,6 @@ For questions concerning the scientific methodology, dataset, or reported result
 
 This work was supported by the Brazilian funding agencies CNPq (grants 307688/2022-4, 409433/2022-5, and 304646/2025-3), Fapemig (grants APQ-02513-22, APQ-04458-23, and BPD-00083-22), Finep (grant SOS Equipamentos 2021 AV02 0062/22), and Capes (Finance Code 001).
 
-The authors also acknowledge the support of the Federal University of Juiz de Fora (UFJF) through its High-Speed Integrated Research Network (RePesq) https://www.repesq.ufjf.br/, accessed on 08 Nov 2025.
+The authors also acknowledge the support of the Federal University of Juiz de Fora (UFJF) through its High-Speed Integrated Research Network (RePesq) https://www.repesq.ufjf.br/, accessed on 21 Sep 2026.
 
 
