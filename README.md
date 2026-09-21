@@ -1,4 +1,4 @@
-# Automated Machine Learning for Water Quality Prediction
+# Automated Machine Learning for Water Quality Prediction  
 
 This repository contains the computational experiments developed for the paper:
 
